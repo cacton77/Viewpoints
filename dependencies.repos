@@ -1,0 +1,7 @@
+repositories:
+
+    # Auto Viewpoint Generation ROS Package
+    auto_viewpoint_generation:
+        type: git
+        url: https://github.com/macs-lab/auto_viewpoint_generation/
+        version: plotting_cost_function
